@@ -54,15 +54,15 @@ mime-types@^2.1.12:
   dependencies:
     mime-db "1.52.0"
 
-ob-bms-sdk@^0.0.71:
-  version "0.0.71"
-  resolved "https://registry.yarnpkg.com/ob-bms-sdk/-/ob-bms-sdk-0.0.71.tgz#c41666b9036520bd34adca68f8a96d3b0adc185f"
-  integrity sha512-oDlyr7c1ZccvPjy7b4Uy+T+0P5sdDlokLwT46qkPHmppqH6Pde0ao8ExXdJDG69Z0Fqx5rHPwiylxBE3TS/nHQ==
+ob-bms-sdk@^0.0.75:
+  version "0.0.75"
+  resolved "https://registry.yarnpkg.com/ob-bms-sdk/-/ob-bms-sdk-0.0.75.tgz#aaddfb4e4d3b52d477e070979ab9cd342af89ce6"
+  integrity sha512-m5Etq/xxf5DCzxwNK6LaPUN9gvcX+M8+9Ck4ZMUjCxOPetXV0/dfkpP1pkhRQc/D6bayuSc5vhaa22LUfnOIKQ==
 
-ob-notification-sdk@^0.0.17:
-  version "0.0.17"
-  resolved "https://registry.yarnpkg.com/ob-notification-sdk/-/ob-notification-sdk-0.0.17.tgz#1ff0ef1c11f92e63328fee754b729d5f270ae6c5"
-  integrity sha512-UXnKnrLDvmJlrr9QqscMNlMMDtKhAmuhs12LxkD3G4No1zr80EDUP5CDAQ0T+wmLmKZ0nua1AUxSAuV/f0AkZw==
+ob-notification-sdk@^0.0.19:
+  version "0.0.19"
+  resolved "https://registry.yarnpkg.com/ob-notification-sdk/-/ob-notification-sdk-0.0.19.tgz#8ffb19ca9770efb45c12a8683463ef8894f2a25d"
+  integrity sha512-qfC1rK7Sheh4o4zv8QiRdlFbzHU90ZvVOZGnhl6X4ZtDzcQILSX9eK3uVsqAjYOPcxa3hX40isGi2eu87ClL8w==
 
 proxy-from-env@^1.1.0:
   version "1.1.0"
