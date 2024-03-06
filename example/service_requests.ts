@@ -28,6 +28,10 @@ async function test(): Promise<void> {
   response = await OBBMSSDK.client.serviceRequestsUpdate(data.id, {status: 'done'})
   data = response.data.data
 
+  // NOTE: This is a sample code to update a service request
+  response = await OBBMSSDK.client.serviceRequestsUpdate(data.id, {internal_remark: 'internal_remark'})
+  data = response.data.data
+
   console.dir({ data }, { depth: null })
 }
 

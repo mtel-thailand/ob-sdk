@@ -29,6 +29,18 @@ async function test(): Promise<void> {
   data = response.data.data
 
   console.dir({ data }, { depth: null })
+
+  // NOTE: This is a sample code to update a ac request
+  response = await OBBMSSDK.client.acRequestUpdate(data.id, {internal_remark: 'internal_remark'})
+  data = response.data.data
+
+  console.dir({ data }, { depth: null })
+
+  // NOTE: This is a sample code to update a ac request
+  response = await OBBMSSDK.client.acRequestUpdate(data.id, {reason: 'reason'})
+  data = response.data.data
+
+  console.dir({ data }, { depth: null })
 }
 
 test()
