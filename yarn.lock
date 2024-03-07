@@ -54,10 +54,10 @@ mime-types@^2.1.12:
   dependencies:
     mime-db "1.52.0"
 
-ob-bms-sdk@^0.0.76:
-  version "0.0.76"
-  resolved "https://registry.yarnpkg.com/ob-bms-sdk/-/ob-bms-sdk-0.0.76.tgz#630c774852631ab8e36e08ad76deac47cd5db6ee"
-  integrity sha512-V0q1LA+muTSOisaUoE0dLbV/T9wdmWyQ7hbf+3Qew3TgMNL04kegPW22BeqylNRWDdF4Ld7Fk4ioSEHBs/3zFA==
+ob-bms-sdk@^0.0.77:
+  version "0.0.77"
+  resolved "https://registry.yarnpkg.com/ob-bms-sdk/-/ob-bms-sdk-0.0.77.tgz#25910baeb32f3f79e8492dd376f68d8dc5b329bb"
+  integrity sha512-lNU/eOXiHwZaKQ8RlwBatlQkKgMGxj++yigBFLJhlWsYihnst27i5xOhOQGynxzIC14SoXrWODmmNqfkFDubMA==
 
 ob-notification-sdk@^0.0.19:
   version "0.0.19"

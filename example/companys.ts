@@ -14,3 +14,5 @@ async function test(): Promise<void> {
   console.log('==================== tenantsIndex ====================')
   console.dir({ data }, { depth: null })
 }
+
+test()
