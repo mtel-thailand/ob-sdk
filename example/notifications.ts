@@ -77,6 +77,13 @@ async function test(): Promise<void> {
 
   console.dir({ data }, { depth: null })
 
+  // NOTE: This is a sample code to reject
+
+  response = await OBNOTISDK.client.campaignsReject(data?.id ?? '')
+  data = response.data.data
+
+  console.dir({ data }, { depth: null })
+
   // NOTE: This is a sample code to approve
 
   response = await OBNOTISDK.client.campaignsApprove(data?.id ?? '')

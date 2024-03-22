@@ -59,10 +59,10 @@ ob-bms-sdk@^0.0.77:
   resolved "https://registry.yarnpkg.com/ob-bms-sdk/-/ob-bms-sdk-0.0.77.tgz#25910baeb32f3f79e8492dd376f68d8dc5b329bb"
   integrity sha512-lNU/eOXiHwZaKQ8RlwBatlQkKgMGxj++yigBFLJhlWsYihnst27i5xOhOQGynxzIC14SoXrWODmmNqfkFDubMA==
 
-ob-notification-sdk@^0.0.19:
-  version "0.0.19"
-  resolved "https://registry.yarnpkg.com/ob-notification-sdk/-/ob-notification-sdk-0.0.19.tgz#8ffb19ca9770efb45c12a8683463ef8894f2a25d"
-  integrity sha512-qfC1rK7Sheh4o4zv8QiRdlFbzHU90ZvVOZGnhl6X4ZtDzcQILSX9eK3uVsqAjYOPcxa3hX40isGi2eu87ClL8w==
+ob-notification-sdk@^0.0.27:
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/ob-notification-sdk/-/ob-notification-sdk-0.0.27.tgz#6f83b862c9a5a767144c95de4b13a4baa1a849d4"
+  integrity sha512-7vxOq0lOW0IwCcze8FX6rWjhVz+Xq8LIkhuktOxzLJ4IQPMDllNySuSGd0q5bUdVvl6rjb1jw1zlnz51wf1n+g==
 
 proxy-from-env@^1.1.0:
   version "1.1.0"

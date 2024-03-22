@@ -6,6 +6,6 @@
   "dependencies": {
     "axios": "^1.6.7",
     "ob-bms-sdk": "^0.0.77",
-    "ob-notification-sdk": "^0.0.19"
+    "ob-notification-sdk": "^0.0.27"
   }
 }
